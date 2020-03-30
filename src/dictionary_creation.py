@@ -1,0 +1,1 @@
+country_name_dict = {'日本': 'Japan'}
