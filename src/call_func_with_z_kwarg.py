@@ -1,0 +1,1 @@
+multiply_x_y_z(100)
