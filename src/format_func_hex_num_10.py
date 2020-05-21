@@ -1,0 +1,1 @@
+print(format(10, 'x'))
