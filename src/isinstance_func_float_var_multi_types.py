@@ -1,0 +1,1 @@
+print(isinstance(20.35, (int, float)))

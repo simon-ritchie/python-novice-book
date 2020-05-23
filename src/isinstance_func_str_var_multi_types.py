@@ -1,0 +1,1 @@
+print(isinstance('タマ', (int, float)))
