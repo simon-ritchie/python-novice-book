@@ -1,1 +1,1 @@
-['アボガド', 'オレンジ', 'ニンジン', 'メロン', 'リンゴ']
+['apple', 'banana', 'carrot', 'melon', 'orange']
