@@ -1,0 +1,2 @@
+テキストの内容: b'\x94L\x8c\xa2' 
+型: <class 'bytes'>
