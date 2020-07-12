@@ -1,2 +1,2 @@
-txt = 'Apple And Orange'
+txt = 'Apple and orange'
 print(txt.istitle())

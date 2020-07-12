@@ -1,2 +1,2 @@
-txt = 'apple and orange'
-print(txt.title())
+txt = 'Apple And Orange'
+print(txt.swapcase())

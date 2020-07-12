@@ -1,2 +1,2 @@
 str_value = '100:200'
-str_value.partition(',')
+print(str_value.partition(','))
