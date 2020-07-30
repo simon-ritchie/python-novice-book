@@ -1,0 +1,2 @@
+popped_value: 犬
+list_value: ['猫', '兎']
