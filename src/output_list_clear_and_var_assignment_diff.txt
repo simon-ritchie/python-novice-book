@@ -1,0 +1,2 @@
+list_value_1: []
+list_value_2: ['猫', '犬', '兎']
